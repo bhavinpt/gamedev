@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bulb
+  - water
+  - fanbreaker
+  - bulb_light
+  - jump_button
+  - inactive_bulb
+  - head
+  - body
+  - fullbody
+  - pump_exit
+  - rotor
+  - ball
+  - laser_target
+  - charger_switch
+  - shock
+  - box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Head
+  - Body
+  - ignore_he,bd,de_excetpt_HBD
+  - HBD
+  - Isolate_1
+  - Isolate_2
+  - Chain_through
+  - NoHead
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
